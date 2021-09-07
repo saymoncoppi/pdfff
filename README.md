@@ -1,7 +1,7 @@
 # pdfff
 A simple pdf font fix using Bash (linux/wsl) and Ghostscript. :)
 <br />
-<p align="center"><img src="https://raw.githubusercontent.com/saymoncoppi/pdfff/main/pdfff.png" height="50%" width="50%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/saymoncoppi/pdfff/main/pdfff.png" height="30%" width="30%"></p>
 
 ## Why
 Sometimes on PDF file generation some fonts aren´t embedded and you got issues when stream PDF data to a printer.
@@ -10,7 +10,7 @@ So your copy will print with a wrong font :(
 
 ## How it works
 This script repair issues with (not)embedded fonts and also compress the file for re-distribution
-<div align="right">Seems a bit silly I know but I hope you enjoy.</div>
+Seems a bit silly I know but I hope you enjoy.
 
 ## Howto
 Get the script file, make it executable
@@ -19,8 +19,9 @@ Run \
 $ ./pdfff.sh
 
 EN and PT languages available \
-$ ./pwapk.sh 
-./pwapk.sh en OR ./pwapk.sh pt
+$ ./pwapk.sh \
+
+<div align="right">./pwapk.sh en OR ./pwapk.sh pt</div>
 
 ## References
 - https://www.pdf2go.com/repair-pdf
