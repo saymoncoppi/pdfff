@@ -1,7 +1,7 @@
 # pdfff
 A simple pdf font fix using Bash (linux/wsl) and Ghostscript. :)
 <br />
-<p align="center"><img src="https://raw.githubusercontent.com/saymoncoppi/pdfff/main/pdfff.png" height="50%" width="50%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/saymoncoppi/pdfff/main/pdfff.png" height="20%" width="20%"></p>
 
 ## Why
 Sometimes on PDF file generation some fonts aren´t embedded and you got issues when stream PDF data to a printer.
