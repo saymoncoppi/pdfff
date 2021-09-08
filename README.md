@@ -37,7 +37,7 @@ If the results has "no" on "emb column" and you are gettings issues on your prin
 ### Update cidfmap
 So if your pdf file has a font that your system doesn´t, you could add the entry bellow on /var/lib/ghostscript/fonts/cidfmap
 <br/><br/>
-> /Arial  << /FileType /TrueType /Path (/usr/local/share/fonts/arial.ttf) /SubfontID 0 /CSI [(Identity) 0] >> ; \
+> /Arial  << /FileType /TrueType /Path (/usr/local/share/fonts/arial.ttf) /SubfontID 0 /CSI [(Identity) 0] >> ; 
 
 *Arial on this sample, replace with font name that fits your needs*
 <br/><br/><br/><br/>
