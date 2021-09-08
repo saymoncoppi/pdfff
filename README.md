@@ -36,6 +36,7 @@ Path:
 - If you´re using an installed font on your Microsoft Windows and running this script on WSL you could use "/mnt/c/Windows/Fonts/font.ttf" as a PATH
 - If you want to point directly to ttf file, copy that to "/usr/local/share/fonts/font.ttf" and use it as a PATH
 - You arelady got it!
+- 
 Fonts:
 - You could install Microsoft fonts yf you hasn´t, run "sudo apt install ttf-mscorefonts-installer"
 - You could download Microsoft fonts from https://www.w7df.com/ and manually install
