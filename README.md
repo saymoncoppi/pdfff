@@ -12,7 +12,7 @@ So your hard copy will printed with a wrong font :(
 <br/><br/><br/><br/>
 
 ## How Ghostscript works
-This script extends the ghostscript commands allowing repair (not)embedded font issues, compress to re-distribute 
+This script creates a batch process to extends the ghostscript commands allowing repair (not)embedded font issues, compress to re-distribute 
 <br/><br/><br/><br/>
 
 ### Base ghostscript command to embed fonts:
