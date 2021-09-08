@@ -6,9 +6,9 @@ A simple pdf font fix using Bash (linux/wsl) and Ghostscript. :)
 <br/><br/><br/><br/>
 
 ## Why
-Sometimes the PDF generated doensn´t have embedded ttf fonts and you got issues when the file is sent to a printer. 
-It causes a bad behavior due a fail in font substitution process if you´re using a system without the required font or specially when the host is an Android device.
-So your hard copy will printed with a wrong font :(
+Sometimes the PDF generated doesn´t have embedded ttf fonts and you got issues when the file is sent to a printer. 
+It causes bad behavior! I mean due to a failure in the font substitution process if you´re using a system without the required font or especially when the host is an Android device.
+So your hard copy will be printed with the wrong font :(
 <br/><br/><br/><br/>
 
 ## How Ghostscript works
